@@ -12,7 +12,6 @@ python main.py
 ```
 
 ## run NOMI
-
 ```bash
 deactivate 2>/dev/null
 python3 -m venv .venv
@@ -21,7 +20,6 @@ python3 setup.py
 ```
 
 ## start NOMI
-
 ```bash
 python3 main.py
 ```
